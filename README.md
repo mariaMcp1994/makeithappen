@@ -1,6 +1,6 @@
 # makeithappen
 
-Make it happen is an application design competition being piloted across 5 primary schools in the Glasgow area.
+Make it happen is an application design competition being piloted across 4 primary schools in the Glasgow area.
 
 ## Why?
 
@@ -10,14 +10,16 @@ Our goal is to reach all pupils from P1-P7 and let them start their digital desi
 
 ## Who?
 
-We are targetting 5 pilot primary schools to allow us to quickly trial the concept and make it happen asap.
+We are targetting 4 pilot primary schools to allow us to quickly trial the concept and make it happen.
 
 We will include all pupils from P1-P7 in the pilot schools.
 
 Pilot Schools:
 - Saint Josephs, Clarkston
 - Saint Michaels, Parkhead
-- 
+- Burnside Primary, Rutherglen
+- Saint John the Baptist, Uddingston
+
 
 ## What?
 
