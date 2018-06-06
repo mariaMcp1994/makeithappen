@@ -1,0 +1,52 @@
+/*big blue button*/
+.startbutton {
+    background: #2FA7FD;
+    box-shadow: 0 6px 14px 0 rgba(71,77,83,0.29);
+    border-radius: 8px;
+}
+/*big blue button text*/
+.startbuttontext {
+    font-family: OpenSans-Bold;
+    font-size: 38px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.jumbotron {
+    text-align: center;
+    position: relative;
+    align-items: center;
+}
+.jumbotron .back {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.jumbotron .score {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.gameanswer {
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: white;
+    margin: 5px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.gamequestion {
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    color: black;
+    margin: 5px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
