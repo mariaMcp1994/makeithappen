@@ -1,0 +1,96 @@
+
+/*********************START SCREEN******************/
+
+html{
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+container {
+    position:fixed;
+    min-height: 100%;
+    height: 100%;
+}
+#start{
+    min-height:100%;
+    background: url(../assets/background.png) no-repeat;
+    background-color: #06274D;
+    background-size:cover;
+}
+
+
+/*big orange button -- start, finish and next*/
+#startButton{
+    background: #FFA35F;
+    box-shadow: 0 6px 14px 0 rgba(71,77,83,0.29);
+    border-radius: 8px;
+    font-family: OpenSans-Bold;
+    font-size: 38px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    
+}
+
+h1 {
+    font-family: OpenSans-Bold;
+    font-size: 38px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    
+}
+
+
+div {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(51,51,51,0.7);
+    z-index: 10;
+  }
+
+/*********************MAIN GAME SCREEN******************/
+
+#game{
+    min-height:100%;
+    background: url(../assets/background.png);
+    background-color: #06274D;
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+
+/*level count*/
+font-family: OpenSans-Bold;
+font-size: 25px;
+color: #C4FFDD;
+
+/*word prompt box and question*/
+background: #FFFFFF;
+border: 3px solid #FFA35F;
+border-radius: 6px;
+font-family: OpenSans-Semibold; 
+font-size: 16x; 
+color: #06274D;
+
+
+/* word prompt box - answer */
+color: #FFA35F;
+text-transform: uppercase;
+font-size: 18px;
+font-family: OpenSans-ExtraBold; 
+
+/*answer buttons*/
+background-color: #06274D;
+border-color: #FFA35F;
+border-style: solid;
+border-width: 5px;
+border-radius: 6px;
+box-shadow: 0 6px 14px 0 rgba(71,77,83,0.29);
+font-family: OpenSans;
+text-transform: uppercase;
+font-size: 18px;
+color: #FFFFFF;
+padding: 5px;
