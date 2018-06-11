@@ -90,6 +90,15 @@ background-color: transparent;
 
 }
 
+/*level count*/
+.back{
+font-family: OpenSans-Bold;
+font-size: 25px;
+color: #C4FFDD;
+background-color: transparent;
+
+}
+
 /* word prompt box - answer */
 #answer{
 color: #FFA35F;
