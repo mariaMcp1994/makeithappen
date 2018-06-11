@@ -23,7 +23,40 @@
     </div>
 
     <div id="game" class="jumbotron" style="display: none">
-
+            <div>
+                <button type="button" class="btn btn-default back" id="backButton">
+                    <span>Back</span>
+                </button>
+                <button type="button" class="btn btn-default score">
+                    <span id="score">0/0</span>
+                </button>
+                </div>
+             <div class ="container" id="spellInputGroup">
+                <div class="row">
+                        <button type="button" class="btn btn-success gamequestion" id="q0">
+                            <h2 id="qt0">A dark, blocked off tunnel.</h2>
+                        </button>
+                    <br/>
+                </div>
+                <div class="row">
+                    <h2 id="answer"> ANSWER </h2>
+                </div>
+                <div class="row">
+                        <button type="button" class="btn btn-default gameanswer" id="a0">
+                            <h2 id="at0">CAT</h2>
+                        </button>
+                        <button type="button" class="btn btn-default gameanswer" id="a1">
+                            <h2 id="at1">CAV</h2>
+                        </button>
+                        <button type="button" class="btn btn-default gameanswer" id="a2">
+                            <h2 id="at2">CAVE</h2>
+                        </button>
+                </div>
+            </div>
+                <div id="spellCheckGroup" style="display: none">
+                <div class="btn btn-lg" id="spellResult"></div><a id="nextButton" class="btn btn-lg btn-success startbutton" href="#" role="button"><span class="playSoundButtonText">&gt;&gt;</span></a>
+            </div>
+        </div>
     </div>
 
     <div id="finish" style="display: none">
