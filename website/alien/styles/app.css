@@ -63,7 +63,7 @@ font-family: OpenSans;
 text-transform: uppercase;
 color: #FFFFFF;
 padding: 5px;
-font-size: 2.5em;
+font-size: 2em;
 }
 
 #gamequestion {
@@ -71,7 +71,7 @@ background: #FFFFFF;
 border: 3px solid #FFA35F;
 border-radius: 6px;
 font-family: OpenSans-Semibold; 
-font-size: 3em;
+font-size: 2em;
 color: #06274D;
 }
 
@@ -97,7 +97,7 @@ background-color: transparent;
 .answer{
 color: #FFA35F;
 text-transform: uppercase;
-font-size: 2em;
+font-size: 1.5em;
 font-family: OpenSans-ExtraBold; 
 }
 
